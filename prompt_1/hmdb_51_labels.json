@@ -1,0 +1,1942 @@
+{
+    "Brush Hair": {
+        "The type of scene where the action occurs": [
+            "The action occurs in a well-lit bathroom or bedroom."
+        ],
+        "The elements present in the scene": [
+            "The scene contains a mirror, a brush or comb, and possibly some hair products like hair spray or gel."
+        ],
+        "The environmental conditions of the scene": [
+            "The room is indoors with good lighting to ensure the person can see their hair clearly."
+        ],
+        "The usage of props in the action": [
+            "A brush or comb is used to smooth out and detangle the hair."
+        ],
+        "The number of actors involved in the action": [
+            "Usually, a single person is involved in brushing their hair, but sometimes another person might help, especially in the case of long or tangled hair."
+        ],
+        "The clothing worn by the actors": [
+            "The person may be dressed in casual or home attire, or possibly in a salon cape if they are at a hair salon."
+        ],
+        "The identity of the actors": [
+            "The actor could be anyone who has hair long enough to require brushing or styling."
+        ],
+        "The expression and emotions of the actors": [
+            "The person might appear focused or relaxed, depending on their routine and whether or not they are in a hurry."
+        ],
+        "The speed of the action": [
+            "The action speed could range from slow and careful to fast and hurried, depending on the individual's preference or time constraints."
+        ],
+        "The movement of body parts during the action": [
+            "The person's arms and hands move rhythmically as they brush through their hair, sometimes adjusting the position of their head for better access."
+        ],
+        "The posture of the body during the action": [
+            "The person usually stands or sits upright, holding their head steady as they brush their hair."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person remains in contact with the ground throughout the action."
+        ]
+    },
+    "Cartwheel": {
+        "The type of scene where the action occurs": [
+            "The action occurs in an open space, possibly a gymnasium, a grassy field, or a beach."
+        ],
+        "The elements present in the scene": [
+            "The scene may have a soft or sandy ground to provide a safe surface for the cartwheel."
+        ],
+        "The environmental conditions of the scene": [
+            "The area is spacious with enough room to perform the cartwheel without obstruction."
+        ],
+        "The usage of props in the action": [
+            "No props are used as the cartwheel is performed using the body's own momentum."
+        ],
+        "The number of actors involved in the action": [
+            "A single person performs the cartwheel, although others may be present to watch or guide."
+        ],
+        "The clothing worn by the actors": [
+            "The person is likely dressed in comfortable, flexible clothing that allows for a range of movement."
+        ],
+        "The identity of the actors": [
+            "The actor could be a gymnast, a dancer, or anyone attempting a cartwheel."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit concentration, excitement, or enjoyment while performing the cartwheel."
+        ],
+        "The speed of the action": [
+            "The action is performed at a moderate to fast speed, powered by the person's own momentum."
+        ],
+        "The movement of body parts during the action": [
+            "The person's arms and legs move in a coordinated manner, with arms providing support and legs providing the rotation."
+        ],
+        "The posture of the body during the action": [
+            "The body is extended and rotates around an imaginary line drawn from the hands to the feet."
+        ],
+        "The position of the body in relation to the ground": [
+            "The body starts and ends in contact with the ground, but is off the ground during the rotation."
+        ]
+    },
+    "Catch": {
+        "The type of scene where the action occurs": [
+            "The action occurs in an open space, possibly a field, a park, or a sports arena."
+        ],
+        "The elements present in the scene": [
+            "The scene may contain a ball or another object being thrown, and potentially other players or spectators."
+        ],
+        "The environmental conditions of the scene": [
+            "The area is spacious with clear visibility to ensure the person can see the object being thrown."
+        ],
+        "The usage of props in the action": [
+            "A ball or another throwable object is used in this action."
+        ],
+        "The number of actors involved in the action": [
+            "At least two people are involved, one throwing the object and the other catching it."
+        ],
+        "The clothing worn by the actors": [
+            "The person catching may be dressed in sportswear or casual clothing depending on the context."
+        ],
+        "The identity of the actors": [
+            "The actor could be a sportsperson, a child playing, or anyone involved in a catching activity."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit concentration when trying to catch the object, and possibly joy or disappointment depending on the outcome."
+        ],
+        "The speed of the action": [
+            "The action speed can vary from slow to fast depending on the speed of the thrown object."
+        ],
+        "The movement of body parts during the action": [
+            "The person's arms move to align with the trajectory of the object, and the hands come together to grasp it."
+        ],
+        "The posture of the body during the action": [
+            "The person may be standing, running, or jumping to align themselves with the object's trajectory."
+        ],
+        "The position of the body in relation to the ground": [
+            "The body may be in contact with the ground or temporarily airborne if the person jumps to catch the object."
+        ]
+    },
+        "Chew": {
+        "The type of scene where the action occurs": [
+            "The action typically occurs in a dining area, such as a kitchen, dining room, or restaurant."
+        ],
+        "The elements present in the scene": [
+            "The scene contains a table, chairs, and food items, possibly along with dining utensils."
+        ],
+        "The environmental conditions of the scene": [
+            "The area is indoors with a comfortable seating arrangement."
+        ],
+        "The usage of props in the action": [
+            "Dining utensils like forks, knives, and spoons may be used to bring food to the mouth."
+        ],
+        "The number of actors involved in the action": [
+            "Usually one person is involved in the action of chewing, but others may be present at the dining setting."
+        ],
+        "The clothing worn by the actors": [
+            "The person is dressed in casual or formal dining attire depending on the occasion."
+        ],
+        "The identity of the actors": [
+            "The actor could be anyone engaged in the act of eating."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit satisfaction, enjoyment, or contemplation while chewing their food."
+        ],
+        "The speed of the action": [
+            "The speed of chewing can vary from slow to fast depending on the individual's eating habits."
+        ],
+        "The movement of body parts during the action": [
+            "The jaw moves up and down, and the tongue helps to maneuver the food while chewing."
+        ],
+        "The posture of the body during the action": [
+            "The person sits upright or leans slightly forward while chewing."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person remains seated and in contact with the ground throughout the action."
+        ]
+    },
+    "Clap": {
+        "The type of scene where the action occurs": [
+            "The action can occur in various settings like a concert, theater, or any celebratory event."
+        ],
+        "The elements present in the scene": [
+            "The scene may contain a stage, performers, and an audience."
+        ],
+        "The environmental conditions of the scene": [
+            "The area may be indoors or outdoors with a crowd gathered for an event."
+        ],
+        "The usage of props in the action": [
+            "No props are used; the action is performed with the hands."
+        ],
+        "The number of actors involved in the action": [
+            "One person claps, but usually many people clap together in a group."
+        ],
+        "The clothing worn by the actors": [
+            "The clothing can vary widely depending on the occasion and venue."
+        ],
+        "The identity of the actors": [
+            "The actor could be anyone participating in showing appreciation or celebration."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit joy, appreciation, or excitement while clapping."
+        ],
+        "The speed of the action": [
+            "The speed of clapping can vary from slow to fast depending on the rhythm and the mood of the event."
+        ],
+        "The movement of body parts during the action": [
+            "The person's hands move towards each other to create a clapping sound."
+        ],
+        "The posture of the body during the action": [
+            "The person is usually standing or sitting upright while clapping."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person remains in contact with the ground throughout the action."
+        ]
+    },
+    "Climb": {
+        "The type of scene where the action occurs": [
+            "The action occurs in an outdoor setting like a mountain, rock wall, or indoor climbing gym."
+        ],
+        "The elements present in the scene": [
+            "The scene contains a climbing surface, possibly ropes, harnesses, and climbing holds."
+        ],
+        "The environmental conditions of the scene": [
+            "The area could be indoors or outdoors with varying weather conditions."
+        ],
+        "The usage of props in the action": [
+            "Climbing gear such as ropes, harnesses, and carabiners are used for safety."
+        ],
+        "The number of actors involved in the action": [
+            "Usually, one person climbs while another person belays, but solo climbing is also possible."
+        ],
+        "The clothing worn by the actors": [
+            "The person wears comfortable, stretchable clothing and climbing shoes for grip."
+        ],
+        "The identity of the actors": [
+            "The actor could be a professional climber, a recreational climber, or a rescue worker."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit focus, determination, and possibly fear or exhilaration."
+        ],
+        "The speed of the action": [
+            "The speed of climbing can vary from slow and cautious to fast and agile."
+        ],
+        "The movement of body parts during the action": [
+            "The person's arms and legs move in coordination to find holds and propel themselves upward."
+        ],
+        "The posture of the body during the action": [
+            "The body posture changes constantly, adjusting to the shape of the climbing surface."
+        ],
+        "The position of the body in relation to the ground": [
+            "The body is off the ground, moving vertically or horizontally along the climbing surface."
+        ]
+    },
+        "Climb Stairs": {
+        "The type of scene where the action occurs": [
+            "The action occurs in a building or outdoor setting with a staircase."
+        ],
+        "The elements present in the scene": [
+            "The scene contains a staircase, possibly with handrails."
+        ],
+        "The environmental conditions of the scene": [
+            "The area may be indoors or outdoors, with clear visibility of the stairs."
+        ],
+        "The usage of props in the action": [
+            "No props are used; the person ascends the stairs using their own body movement."
+        ],
+        "The number of actors involved in the action": [
+            "Usually, one person is involved, but others may be present climbing the stairs as well."
+        ],
+        "The clothing worn by the actors": [
+            "The clothing can vary widely depending on the individual and the setting."
+        ],
+        "The identity of the actors": [
+            "The actor could be anyone needing to ascend to a higher level."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit a neutral expression or determination if they are in a hurry."
+        ],
+        "The speed of the action": [
+            "The speed can vary from slow to fast depending on the individual's pace."
+        ],
+        "The movement of body parts during the action": [
+            "The person's legs move alternately to climb the stairs, and arms may swing for balance."
+        ],
+        "The posture of the body during the action": [
+            "The person usually stands upright while climbing stairs."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person remains in contact with the ground, or the steps, throughout the action."
+        ]
+    },
+    "Bungee Jumping": {
+        "The type of scene where the action occurs": [
+            "The action occurs at a high elevation point such as a bridge, crane, or specially designed platform."
+        ],
+        "The elements present in the scene": [
+            "The scene contains a bungee cord, a platform, and safety equipment."
+        ],
+        "The environmental conditions of the scene": [
+            "The area may be outdoors with varying weather conditions."
+        ],
+        "The usage of props in the action": [
+            "A bungee cord is used to safely rebound the person after they jump."
+        ],
+        "The number of actors involved in the action": [
+            "One person performs the bungee jump while staff ensure safety."
+        ],
+        "The clothing worn by the actors": [
+            "The person wears comfortable clothing and safety harnesses."
+        ],
+        "The identity of the actors": [
+            "The actor could be an adventure seeker or a professional bungee jumper."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit exhilaration, fear, or thrill."
+        ],
+        "The speed of the action": [
+            "The action is fast as the person descends rapidly and rebounds."
+        ],
+        "The movement of body parts during the action": [
+            "The person's body may flail or tuck during the fall and rebound."
+        ],
+        "The posture of the body during the action": [
+            "The body posture can vary from a dive to a swan dive or flip."
+        ],
+        "The position of the body in relation to the ground": [
+            "The body is initially at a high elevation, then rapidly descends and rebounds above the ground."
+        ]
+    },
+    "Draw Sword": {
+        "The type of scene where the action occurs": [
+            "The action occurs in a setting that could be a battlefield, dojo, or dramatic scene in a story."
+        ],
+        "The elements present in the scene": [
+            "The scene may contain opponents, bystanders, or a master watching the action."
+        ],
+        "The environmental conditions of the scene": [
+            "The area may be indoors or outdoors with enough space for the sword to be drawn."
+        ],
+        "The usage of props in the action": [
+            "A sheathed sword is drawn from its scabbard."
+        ],
+        "The number of actors involved in the action": [
+            "Typically, one person performs the action of drawing the sword."
+        ],
+        "The clothing worn by the actors": [
+            "The person may be dressed in traditional martial arts attire, armor, or period clothing."
+        ],
+        "The identity of the actors": [
+            "The actor could be a warrior, samurai, knight, or character in a dramatic scene."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit determination, readiness, or a sense of honor."
+        ],
+        "The speed of the action": [
+            "The action is swift to allow the person to be ready for ensuing action."
+        ],
+        "The movement of body parts during the action": [
+            "The person's arms move swiftly and precisely to draw the sword from its scabbard."
+        ],
+        "The posture of the body during the action": [
+            "The person stands upright or in a ready stance as they draw the sword."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person remains in contact with the ground throughout the action."
+        ]
+    },
+    "Dribble": {
+        "The type of scene where the action occurs": [
+            "The action occurs on a basketball court or a similar flat surface suitable for dribbling a basketball."
+        ],
+        "The elements present in the scene": [
+            "The scene contains a basketball, the playing court, and possibly other players and spectators."
+        ],
+        "The environmental conditions of the scene": [
+            "The area is spacious with a smooth surface for effective dribbling."
+        ],
+        "The usage of props in the action": [
+            "A basketball is used to perform the dribbling action."
+        ],
+        "The number of actors involved in the action": [
+            "One person dribbles the ball, but other players may be present on the court."
+        ],
+        "The clothing worn by the actors": [
+            "The person is dressed in sportswear suitable for playing basketball."
+        ],
+        "The identity of the actors": [
+            "The actor could be a basketball player or someone practicing basketball."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit concentration, agility, and competitive spirit while dribbling."
+        ],
+        "The speed of the action": [
+            "The speed of dribbling can vary from slow to fast depending on the situation in the game."
+        ],
+        "The movement of body parts during the action": [
+            "The person's arms and hands work to control the ball, while their legs move to propel them forward."
+        ],
+        "The posture of the body during the action": [
+            "The body posture is slightly bent forward with agile movements to control the ball."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person remains in contact with the ground while dribbling the ball."
+        ]
+    },
+    "Drink": {
+        "The type of scene where the action occurs": [
+            "The action occurs in a variety of settings such as a kitchen, dining area, bar, or outdoor event."
+        ],
+        "The elements present in the scene": [
+            "The scene contains a glass or cup filled with liquid, possibly with a table and chairs."
+        ],
+        "The environmental conditions of the scene": [
+            "The area may be indoors or outdoors with comfortable seating arrangements."
+        ],
+        "The usage of props in the action": [
+            "A glass or cup is used to hold the liquid to be drunk."
+        ],
+        "The number of actors involved in the action": [
+            "Usually, one person is involved in the action of drinking, but others may be present in the setting."
+        ],
+        "The clothing worn by the actors": [
+            "The clothing can vary widely depending on the individual and the setting."
+        ],
+        "The identity of the actors": [
+            "The actor could be anyone who is thirsty or participating in a social drinking event."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit satisfaction, relaxation, or enjoyment while drinking."
+        ],
+        "The speed of the action": [
+            "The speed of drinking can vary from slow sips to quick gulps depending on the individual's preference."
+        ],
+        "The movement of body parts during the action": [
+            "The person's arm lifts the glass or cup to their mouth, and they swallow the liquid."
+        ],
+        "The posture of the body during the action": [
+            "The person usually sits or stands upright while drinking."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person remains in contact with the ground throughout the action."
+        ]
+    },
+    "Eat": {
+        "The type of scene where the action occurs": [
+            "The action typically occurs in a dining area such as a kitchen, dining room, or restaurant."
+        ],
+        "The elements present in the scene": [
+            "The scene contains a table, chairs, and food items, possibly along with dining utensils."
+        ],
+        "The environmental conditions of the scene": [
+            "The area is indoors with a comfortable seating arrangement."
+        ],
+        "The usage of props in the action": [
+            "Dining utensils like forks, knives, and spoons may be used to consume the food."
+        ],
+        "The number of actors involved in the action": [
+            "Usually one person is involved in the action of eating, but others may be present at the dining setting."
+        ],
+        "The clothing worn by the actors": [
+            "The person is dressed in casual or formal dining attire depending on the occasion."
+        ],
+        "The identity of the actors": [
+            "The actor could be anyone engaged in the act of eating."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit satisfaction, enjoyment, or contemplation while eating their food."
+        ],
+        "The speed of the action": [
+            "The speed of eating can vary from slow to fast depending on the individual's eating habits."
+        ],
+        "The movement of body parts during the action": [
+            "The person's arms move to bring food to their mouth, and they chew and swallow the food."
+        ],
+        "The posture of the body during the action": [
+            "The person sits upright or leans slightly forward while eating."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person remains seated and in contact with the ground throughout the action."
+        ]
+    },
+        "Fall Floor": {
+        "The type of scene where the action occurs": [
+            "The action can occur in various settings such as a home, workplace, street, or sports field."
+        ],
+        "The elements present in the scene": [
+            "The scene may contain furniture, other people, or sporting equipment depending on the setting."
+        ],
+        "The environmental conditions of the scene": [
+            "The area may have slippery or uneven flooring which contributes to the fall."
+        ],
+        "The usage of props in the action": [
+            "No specific props are used in the action of falling."
+        ],
+        "The number of actors involved in the action": [
+            "Usually, one person is involved in the action of falling."
+        ],
+        "The clothing worn by the actors": [
+            "The clothing can vary widely depending on the individual and the setting."
+        ],
+        "The identity of the actors": [
+            "The actor could be anyone experiencing a loss of balance or a trip."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit surprise, fear, or distress while falling."
+        ],
+        "The speed of the action": [
+            "The action is quick as the person loses balance and falls to the floor."
+        ],
+        "The movement of body parts during the action": [
+            "The person's arms may flail as they try to regain balance, and their body descends to the floor."
+        ],
+        "The posture of the body during the action": [
+            "The body posture changes from upright to a fallen position."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person's body comes in contact with the ground during the action."
+        ]
+    },
+    "Fencing": {
+        "The type of scene where the action occurs": [
+            "The action occurs in a fencing piste or arena designated for fencing competitions."
+        ],
+        "The elements present in the scene": [
+            "The scene contains fencing weapons, opponents, and possibly a referee and spectators."
+        ],
+        "The environmental conditions of the scene": [
+            "The area is indoors with a controlled environment suitable for fencing."
+        ],
+        "The usage of props in the action": [
+            "Fencing weapons such as epees, foils, or sabres are used in the action."
+        ],
+        "The number of actors involved in the action": [
+            "Two fencers are involved in the action, with one or more referees overseeing the bout."
+        ],
+        "The clothing worn by the actors": [
+            "The fencers wear protective clothing including a mask, jacket, and gloves."
+        ],
+        "The identity of the actors": [
+            "The actors are trained fencers participating in a bout."
+        ],
+        "The expression and emotions of the actors": [
+            "The fencers may exhibit concentration, determination, and competitive spirit."
+        ],
+        "The speed of the action": [
+            "The action is fast-paced with quick movements and reactions."
+        ],
+        "The movement of body parts during the action": [
+            "The fencers' arms move to attack and defend, while their legs move to maintain distance and position."
+        ],
+        "The posture of the body during the action": [
+            "The body posture is upright with a slight forward lean, maintaining a balanced en garde position."
+        ],
+        "The position of the body in relation to the ground": [
+            "The fencers remain in contact with the ground, moving forward and backward along the piste."
+        ]
+    },
+    "Flic Flac": {
+        "The type of scene where the action occurs": [
+            "The action occurs in a gymnastics arena, circus, or during a performance."
+        ],
+        "The elements present in the scene": [
+            "The scene contains a spring floor or mat, and possibly an audience and other performers."
+        ],
+        "The environmental conditions of the scene": [
+            "The area is indoors with a controlled environment suitable for acrobatics."
+        ],
+        "The usage of props in the action": [
+            "No specific props are used; the action is performed using the body's momentum."
+        ],
+        "The number of actors involved in the action": [
+            "Usually, one person performs the flic flac, but others may be present as part of a choreographed routine."
+        ],
+        "The clothing worn by the actors": [
+            "The person wears tight, stretchable clothing suitable for acrobatics."
+        ],
+        "The identity of the actors": [
+            "The actor is a gymnast or acrobat trained to perform such movements."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit focus, confidence, and grace while performing the flic flac."
+        ],
+        "The speed of the action": [
+            "The action is fast, with a rapid succession of flips and handsprings."
+        ],
+        "The movement of body parts during the action": [
+            "The person's legs propel them into a flip, their hands touch the ground for a handspring, and they land back on their feet."
+        ],
+        "The posture of the body during the action": [
+            "The body goes through a series of tucks and extensions as it flips and springs."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person's body leaves the ground during the flips, touches the ground during the handsprings, and lands back on the ground."
+        ]
+    },
+        "Golf": {
+        "The type of scene where the action occurs": [
+            "The action occurs on a golf course, typically on the tee, fairway, or green."
+        ],
+        "The elements present in the scene": [
+            "The scene contains a golf ball, golf clubs, tee markers, and possibly other players and spectators."
+        ],
+        "The environmental conditions of the scene": [
+            "The area is outdoors with varying weather conditions and landscaped terrain."
+        ],
+        "The usage of props in the action": [
+            "A golf club is used to strike the golf ball."
+        ],
+        "The number of actors involved in the action": [
+            "One person performs the golf swing, but others may be present as part of a group or audience."
+        ],
+        "The clothing worn by the actors": [
+            "The person is dressed in golf attire, which may include a collared shirt, trousers, and golf shoes."
+        ],
+        "The identity of the actors": [
+            "The actor could be a golfer, either amateur or professional."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit concentration, determination, and precision while executing the golf swing."
+        ],
+        "The speed of the action": [
+            "The action involves a controlled, swift swing to strike the golf ball accurately."
+        ],
+        "The movement of body parts during the action": [
+            "The person's arms, shoulders, and hips rotate to generate power and control the swing."
+        ],
+        "The posture of the body during the action": [
+            "The body maintains a balanced, athletic posture throughout the swing."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person remains in contact with the ground during the swing, with a shift of weight from back foot to front foot."
+        ]
+    },
+    "Handstand": {
+        "The type of scene where the action occurs": [
+            "The action occurs in a gymnastics arena, yoga studio, or any open space with a soft landing area."
+        ],
+        "The elements present in the scene": [
+            "The scene may contain a mat or soft flooring for safety."
+        ],
+        "The environmental conditions of the scene": [
+            "The area is spacious with a level and soft surface."
+        ],
+        "The usage of props in the action": [
+            "No specific props are used; the action is performed using body strength and balance."
+        ],
+        "The number of actors involved in the action": [
+            "Usually, one person performs the handstand, but others may be present as part of a class or performance."
+        ],
+        "The clothing worn by the actors": [
+            "The person wears comfortable, stretchable clothing suitable for gymnastics or yoga."
+        ],
+        "The identity of the actors": [
+            "The actor could be a gymnast, yoga practitioner, or someone practicing acrobatics."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit focus, determination, and a sense of accomplishment while performing the handstand."
+        ],
+        "The speed of the action": [
+            "The action is controlled and steady as the person balances on their hands."
+        ],
+        "The movement of body parts during the action": [
+            "The person's arms are strong and stable, supporting the body weight as the legs rise and extend upwards."
+        ],
+        "The posture of the body during the action": [
+            "The body is in a straight line from hands to feet, or may exhibit slight variations like a split or bent legs."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person's hands are in contact with the ground, while the rest of the body is elevated."
+        ]
+    },
+    "Hit": {
+        "The type of scene where the action occurs": [
+            "The action can occur in various settings such as a sporting event, a fight, or during an accidental collision."
+        ],
+        "The elements present in the scene": [
+            "The scene may contain sporting equipment, other individuals, or objects that are being hit."
+        ],
+        "The environmental conditions of the scene": [
+            "The environmental conditions can vary widely depending on the nature of the action."
+        ],
+        "The usage of props in the action": [
+            "Props may include sports equipment like a bat, racket, or fist in the case of a fight."
+        ],
+        "The number of actors involved in the action": [
+            "At least one person is involved, but others may be present depending on the scenario."
+        ],
+        "The clothing worn by the actors": [
+            "The clothing can vary widely depending on the setting and nature of the action."
+        ],
+        "The identity of the actors": [
+            "The actor could be an athlete, a fighter, or anyone involved in a situation where a hitting action occurs."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit aggression, focus, or distress depending on the nature of the action."
+        ],
+        "The speed of the action": [
+            "The action is usually fast and forceful."
+        ],
+        "The movement of body parts during the action": [
+            "The person's arm and hand, or leg and foot, move swiftly to deliver the hit."
+        ],
+        "The posture of the body during the action": [
+            "The body posture is engaged and often involves a rotation for power."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person may remain in contact with the ground or may jump or lunge as part of the hitting action."
+        ]
+    },
+    "Hug": {
+        "The type of scene where the action occurs": [
+            "The action occurs in a variety of personal and social settings, like greetings, farewells, or celebrations."
+        ],
+        "The elements present in the scene": [
+            "The scene may contain other individuals, possibly in a social or family gathering."
+        ],
+        "The environmental conditions of the scene": [
+            "The environmental conditions can vary widely depending on the setting."
+        ],
+        "The usage of props in the action": [
+            "No specific props are used; the action involves personal interaction."
+        ],
+        "The number of actors involved in the action": [
+            "At least two people are involved in the action of hugging."
+        ],
+        "The clothing worn by the actors": [
+            "The clothing can vary widely depending on the setting and the individuals."
+        ],
+        "The identity of the actors": [
+            "The actors could be friends, family members, or acquaintances sharing a moment of affection or comfort."
+        ],
+        "The expression and emotions of the actors": [
+            "The people may exhibit warmth, affection, comfort, or happiness while hugging."
+        ],
+        "The speed of the action": [
+            "The action is gentle and affectionate, with a slow and comforting pace."
+        ],
+        "The movement of body parts during the action": [
+            "The people's arms wrap around each other in a warm embrace."
+        ],
+        "The posture of the body during the action": [
+            "The body posture is open and welcoming as the people lean into the hug."
+        ],
+        "The position of the body in relation to the ground": [
+            "The people remain in contact with the ground throughout the action."
+        ]
+    },
+        "Jump": {
+        "The type of scene where the action occurs": [
+            "The action can occur in various settings such as a sports field, playground, or during a performance."
+        ],
+        "The elements present in the scene": [
+            "The scene may contain a flat or slightly elevated surface for jumping, and possibly an audience or other participants."
+        ],
+        "The environmental conditions of the scene": [
+            "The area is spacious with a level surface."
+        ],
+        "The usage of props in the action": [
+            "No specific props are used; the action is performed using body strength."
+        ],
+        "The number of actors involved in the action": [
+            "Usually, one person performs the jump, but others may be present as part of a group or audience."
+        ],
+        "The clothing worn by the actors": [
+            "The person wears comfortable clothing suitable for physical activity."
+        ],
+        "The identity of the actors": [
+            "The actor could be an athlete, performer, or anyone engaging in playful or competitive jumping."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit focus, excitement, or determination while jumping."
+        ],
+        "The speed of the action": [
+            "The action is quick as the person propels themselves into the air."
+        ],
+        "The movement of body parts during the action": [
+            "The person's legs extend forcefully, propelling them off the ground, while the arms may swing for momentum."
+        ],
+        "The posture of the body during the action": [
+            "The body maintains a straight or slightly tucked posture as it ascends and descends."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person's body leaves the ground during the jump and lands back on the ground."
+        ]
+    },
+    "Kick Ball": {
+        "The type of scene where the action occurs": [
+            "The action typically occurs on a soccer field or in a similar open space suitable for kicking a ball."
+        ],
+        "The elements present in the scene": [
+            "The scene contains a soccer ball, possibly goalposts, and other players."
+        ],
+        "The environmental conditions of the scene": [
+            "The area is outdoors with a level, grassy surface."
+        ],
+        "The usage of props in the action": [
+            "A soccer ball is used for the kicking action."
+        ],
+        "The number of actors involved in the action": [
+            "One person kicks the ball, but others may be present as teammates or opponents."
+        ],
+        "The clothing worn by the actors": [
+            "The person is dressed in soccer attire, including soccer boots, shorts, and a jersey."
+        ],
+        "The identity of the actors": [
+            "The actor is likely a soccer player participating in a game or practice."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit focus, determination, and competitive spirit while kicking the ball."
+        ],
+        "The speed of the action": [
+            "The action is fast, with a swift kick to propel the ball forward or into the goal."
+        ],
+        "The movement of body parts during the action": [
+            "The person's leg swings forward with force, while the other leg and the upper body maintain balance."
+        ],
+        "The posture of the body during the action": [
+            "The body posture is balanced, with a lean towards the ball for better control."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person remains in contact with the ground with one leg, while the other leg kicks the ball."
+        ]
+    },
+    "Kick": {
+        "The type of scene where the action occurs": [
+            "The action can occur in various settings such as a martial arts dojo, during a self-defense situation, or in a staged performance."
+        ],
+        "The elements present in the scene": [
+            "The scene may contain an opponent, a target, or a performance area."
+        ],
+        "The environmental conditions of the scene": [
+            "The area is spacious with a level surface suitable for martial arts or performance."
+        ],
+        "The usage of props in the action": [
+            "No specific props are used; the action is performed using body strength."
+        ],
+        "The number of actors involved in the action": [
+            "Usually, one person performs the kick, but an opponent or audience may be present."
+        ],
+        "The clothing worn by the actors": [
+            "The person wears clothing suitable for martial arts or performance, such as a gi or costume."
+        ],
+        "The identity of the actors": [
+            "The actor could be a martial artist, performer, or someone engaged in self-defense."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit focus, determination, or aggressive intent while executing the kick."
+        ],
+        "The speed of the action": [
+            "The action is fast and forceful, with a swift extension of the leg."
+        ],
+        "The movement of body parts during the action": [
+            "The person's leg extends forcefully, while the other leg and the upper body maintain balance."
+        ],
+        "The posture of the body during the action": [
+            "The body maintains a balanced posture with a strong core and extended leg."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person remains in contact with the ground with one leg, while the other leg extends to deliver the kick."
+        ]
+    },
+    "Kiss": {
+        "The type of scene where the action occurs": [
+            "The action occurs in a variety of personal and social settings, like romantic situations, greetings, farewells, or celebrations."
+        ],
+        "The elements present in the scene": [
+            "The scene may contain other individuals, possibly in a social or family gathering."
+        ],
+        "The environmental conditions of the scene": [
+            "The environmental conditions can vary widely depending on the setting."
+        ],
+        "The usage of props in the action": [
+            "No specific props are used; the action involves personal interaction."
+        ],
+        "The number of actors involved in the action": [
+            "At least two people are involved in the action of kissing."
+        ],
+        "The clothing worn by the actors": [
+            "The clothing can vary widely depending on the setting and the individuals."
+        ],
+        "The identity of the actors": [
+            "The actors could be romantic partners, family members, or acquaintances sharing a moment of affection or greeting."
+        ],
+        "The expression and emotions of the actors": [
+            "The people may exhibit affection, love, warmth, or happiness while kissing."
+        ],
+        "The speed of the action": [
+            "The action is gentle and affectionate, with a slow and tender pace."
+        ],
+        "The movement of body parts during the action": [
+            "The people's faces move closer together, and their lips touch in a soft or passionate manner."
+        ],
+        "The posture of the body during the action": [
+            "The body posture is open and welcoming as the people lean into the kiss."
+        ],
+        "The position of the body in relation to the ground": [
+            "The people remain in contact with the ground throughout the action."
+        ]
+    },
+    "Laugh": {
+        "The type of scene where the action occurs": [
+            "The action can occur in various social settings, during a conversation, or while watching a comedy show."
+        ],
+        "The elements present in the scene": [
+            "The scene may contain other individuals, possibly in a social gathering or a comedic environment."
+        ],
+        "The environmental conditions of the scene": [
+            "The environmental conditions can vary widely depending on the setting."
+        ],
+        "The usage of props in the action": [
+            "No specific props are used; the action is a natural human response."
+        ],
+        "The number of actors involved in the action": [
+            "Usually, one person laughs, but others may join in or be present."
+        ],
+        "The clothing worn by the actors": [
+            "The clothing can vary widely depending on the setting and the individuals."
+        ],
+        "The identity of the actors": [
+            "The actor could be anyone finding something amusing or joyful."
+        ],
+        "The expression and emotions of the actors": [
+            "The person exhibits happiness, amusement, or joy while laughing."
+        ],
+        "The speed of the action": [
+            "The action can vary from a chuckle to a hearty laugh."
+        ],
+        "The movement of body parts during the action": [
+            "The person's face lights up, and their body may shake with laughter."
+        ],
+        "The posture of the body during the action": [
+            "The body posture can be relaxed or expressive depending on the intensity of the laughter."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person remains in contact with the ground throughout the action."
+        ]
+    },
+    "Pick": {
+        "The type of scene where the action occurs": [
+            "The action typically occurs in a setting where objects are on the ground or on a surface, like a room, garden, or street."
+        ],
+        "The elements present in the scene": [
+            "The scene contains objects that are being picked up, like toys, tools, or natural materials."
+        ],
+        "The environmental conditions of the scene": [
+            "The environmental conditions can vary depending on the setting."
+        ],
+        "The usage of props in the action": [
+            "The object being picked up is the main prop involved in this action."
+        ],
+        "The number of actors involved in the action": [
+            "Usually, one person performs the action of picking something up."
+        ],
+        "The clothing worn by the actors": [
+            "The clothing can vary widely depending on the setting and the individual."
+        ],
+        "The identity of the actors": [
+            "The actor could be anyone needing to pick up or gather objects."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit focus, determination, or casualness depending on the nature of the action."
+        ],
+        "The speed of the action": [
+            "The action is generally slow to moderate as the person bends down and picks up the object."
+        ],
+        "The movement of body parts during the action": [
+            "The person's body bends at the waist or knees, and their hand reaches down to grasp the object."
+        ],
+        "The posture of the body during the action": [
+            "The body posture is bent over or crouched as the person reaches down."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person remains in contact with the ground, although they may bend or crouch."
+        ]
+    },
+    "Pour": {
+        "The type of scene where the action occurs": [
+            "The action often occurs in a kitchen, bar, or any place where liquids are being served."
+        ],
+        "The elements present in the scene": [
+            "The scene contains containers like bottles, jugs, or pitchers, and receptacles like glasses or cups."
+        ],
+        "The environmental conditions of the scene": [
+            "The area is usually indoors with a stable and flat surface."
+        ],
+        "The usage of props in the action": [
+            "A container with liquid is used to pour into a receptacle."
+        ],
+        "The number of actors involved in the action": [
+            "Usually, one person performs the action of pouring."
+        ],
+        "The clothing worn by the actors": [
+            "The clothing can vary but may include attire suitable for cooking or serving."
+        ],
+        "The identity of the actors": [
+            "The actor could be a chef, bartender, server, or anyone preparing or serving a drink."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit focus, care, or casualness while pouring."
+        ],
+        "The speed of the action": [
+            "The action is controlled and steady to prevent spilling."
+        ],
+        "The movement of body parts during the action": [
+            "The person's hand and arm move in a controlled manner to tilt the container and direct the flow of liquid."
+        ],
+        "The posture of the body during the action": [
+            "The body posture is stable and upright, with a slight lean towards the receptacle."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person remains in contact with the ground throughout the action."
+        ]
+    },
+    "Pullup": {
+        "The type of scene where the action occurs": [
+            "The action typically occurs in a gym, workout area, or at a pullup bar installation."
+        ],
+        "The elements present in the scene": [
+            "The scene contains a sturdy pullup bar, and possibly workout equipment or other exercisers."
+        ],
+        "The environmental conditions of the scene": [
+            "The area is spacious with a secure and stable pullup bar."
+        ],
+        "The usage of props in the action": [
+            "The pullup bar is the main prop used in this action."
+        ],
+        "The number of actors involved in the action": [
+            "Usually, one person performs the pullup, but others may be present as trainers or fellow exercisers."
+        ],
+        "The clothing worn by the actors": [
+            "The person wears comfortable workout attire that allows for a full range of motion."
+        ],
+        "The identity of the actors": [
+            "The actor is likely someone engaging in strength training or physical fitness activities."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit determination, focus, and effort while performing the pullup."
+        ],
+        "The speed of the action": [
+            "The action is controlled and deliberate, with a steady upward and downward movement."
+        ],
+        "The movement of body parts during the action": [
+            "The person's arms pull upward, engaging the back and shoulder muscles, while the body remains straight."
+        ],
+        "The posture of the body during the action": [
+            "The body maintains a straight line from head to feet, with a tight core and engaged back muscles."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person's body is lifted off the ground, suspended by the arms as they pull upwards."
+        ]
+    },
+    "Punch": {
+        "The type of scene where the action occurs": [
+            "The action can occur in a boxing ring, martial arts dojo, or during a self-defense situation."
+        ],
+        "The elements present in the scene": [
+            "The scene may contain an opponent, a punching bag, or other training equipment."
+        ],
+        "The environmental conditions of the scene": [
+            "The area is spacious with a level surface suitable for martial arts or boxing."
+        ],
+        "The usage of props in the action": [
+            "No specific props are used; the action is performed using body strength."
+        ],
+        "The number of actors involved in the action": [
+            "Usually, one person performs the punch, but an opponent or trainer may be present."
+        ],
+        "The clothing worn by the actors": [
+            "The person wears clothing suitable for martial arts or boxing, such as a gi or boxing gloves."
+        ],
+        "The identity of the actors": [
+            "The actor could be a martial artist, boxer, or someone engaged in self-defense."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit focus, determination, or aggressive intent while delivering the punch."
+        ],
+        "The speed of the action": [
+            "The action is fast and forceful, with a swift extension of the fist."
+        ],
+        "The movement of body parts during the action": [
+            "The person's arm extends forcefully, with the fist leading towards the target."
+        ],
+        "The posture of the body during the action": [
+            "The body maintains a balanced posture with a strong core and pivoting at the waist."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person remains in contact with the ground while delivering the punch."
+        ]
+    },
+    "Push": {
+        "The type of scene where the action occurs": [
+            "The action can occur in various settings, such as moving furniture, opening a door, or interacting with objects."
+        ],
+        "The elements present in the scene": [
+            "The scene may contain the object being pushed, and possibly other individuals or obstacles."
+        ],
+        "The environmental conditions of the scene": [
+            "The environmental conditions can vary widely depending on the setting."
+        ],
+        "The usage of props in the action": [
+            "The object being pushed is the main prop involved in this action."
+        ],
+        "The number of actors involved in the action": [
+            "Usually, one person performs the action of pushing, but others may assist or be present."
+        ],
+        "The clothing worn by the actors": [
+            "The clothing can vary widely depending on the setting and the individual."
+        ],
+        "The identity of the actors": [
+            "The actor could be anyone needing to move or interact with objects by pushing them."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit effort, determination, or casualness depending on the nature of the action."
+        ],
+        "The speed of the action": [
+            "The action can be slow to moderate, depending on the size and weight of the object being pushed."
+        ],
+        "The movement of body parts during the action": [
+            "The person's arms extend and apply force, while the legs and core provide stability and additional power."
+        ],
+        "The posture of the body during the action": [
+            "The body posture is usually leaning forward, with a strong core to transfer force to the object."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person remains in contact with the ground, providing a stable base for pushing."
+        ]
+    },
+    "Pushup": {
+        "The type of scene where the action occurs": [
+            "The action typically occurs in a gym, workout area, or any flat surface suitable for exercising."
+        ],
+        "The elements present in the scene": [
+            "The scene contains a flat, stable surface, and possibly other workout equipment or exercisers."
+        ],
+        "The environmental conditions of the scene": [
+            "The area is spacious with a level surface suitable for exercising."
+        ],
+        "The usage of props in the action": [
+            "No specific props are used; the action is performed using body strength."
+        ],
+        "The number of actors involved in the action": [
+            "Usually, one person performs the pushup, but others may be present as trainers or fellow exercisers."
+        ],
+        "The clothing worn by the actors": [
+            "The person wears comfortable workout attire that allows for a full range of motion."
+        ],
+        "The identity of the actors": [
+            "The actor is likely someone engaging in strength training or physical fitness activities."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit determination, focus, and effort while performing the pushup."
+        ],
+        "The speed of the action": [
+            "The action is controlled and deliberate, with a steady up and down movement."
+        ],
+        "The movement of body parts during the action": [
+            "The person's arms extend and retract, engaging the chest, shoulders, and triceps muscles."
+        ],
+        "The posture of the body during the action": [
+            "The body maintains a straight line from head to heels, with a tight core and engaged muscles."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person's body is elevated off the ground by the arms, lowering towards and pushing away from the ground."
+        ]
+    },
+    "Ride Bike": {
+        "The type of scene where the action occurs": [
+            "The action typically occurs on a road, bike path, or in nature settings like trails."
+        ],
+        "The elements present in the scene": [
+            "The scene contains a bicycle, possibly other cyclists, vehicles, and natural or urban surroundings."
+        ],
+        "The environmental conditions of the scene": [
+            "The area can be outdoors with varying terrain and weather conditions."
+        ],
+        "The usage of props in the action": [
+            "A bicycle is the main prop used in this action."
+        ],
+        "The number of actors involved in the action": [
+            "Usually, one person rides the bike, but others may ride alongside or be present in the environment."
+        ],
+        "The clothing worn by the actors": [
+            "The person wears cycling attire, including a helmet, cycling shorts, and gloves for better grip and safety."
+        ],
+        "The identity of the actors": [
+            "The actor could be a cyclist, commuter, or someone enjoying a leisurely ride."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit focus, enjoyment, or determination while riding."
+        ],
+        "The speed of the action": [
+            "The action can vary from slow to fast, depending on the cyclist's pace and the terrain."
+        ],
+        "The movement of body parts during the action": [
+            "The person's legs pedal in a circular motion while the arms maintain a steady grip on the handlebars."
+        ],
+        "The posture of the body during the action": [
+            "The body posture is bent forward for aerodynamics, with a strong core and back."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person remains seated or standing on the pedals, elevated off the ground by the bicycle."
+        ]
+    },
+    "Ride Horse": {
+        "The type of scene where the action occurs": [
+            "The action typically occurs in open fields, trails, or horse riding arenas."
+        ],
+        "The elements present in the scene": [
+            "The scene contains a horse, possibly other riders, and natural or managed surroundings."
+        ],
+        "The environmental conditions of the scene": [
+            "The area can be outdoors with varying terrain and weather conditions."
+        ],
+        "The usage of props in the action": [
+            "A saddle, bridle, and other horse tack are the main props used in this action."
+        ],
+        "The number of actors involved in the action": [
+            "Usually, one person rides the horse, but others may ride alongside or be present in the environment."
+        ],
+        "The clothing worn by the actors": [
+            "The person wears riding attire, including a helmet, riding boots, and gloves for better grip and safety."
+        ],
+        "The identity of the actors": [
+            "The actor could be a horse rider, equestrian athlete, or someone enjoying a leisurely ride."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit focus, enjoyment, or determination while riding."
+        ],
+        "The speed of the action": [
+            "The action can vary from slow to fast, depending on the rider's pace and the horse's gait."
+        ],
+        "The movement of body parts during the action": [
+            "The person's legs grip the horse's sides while the arms control the reins and maintain balance."
+        ],
+        "The posture of the body during the action": [
+            "The body posture is upright or slightly leaned forward, with a strong core and back."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person remains seated or standing in the stirrups, elevated off the ground by the horse."
+        ]
+    },
+    "Run": {
+        "The type of scene where the action occurs": [
+            "The action can occur on a track, road, trail, or any other suitable area for running."
+        ],
+        "The elements present in the scene": [
+            "The scene may contain other runners, spectators, or natural or urban surroundings."
+        ],
+        "The environmental conditions of the scene": [
+            "The area can be outdoors or indoors with varying weather and terrain conditions."
+        ],
+        "The usage of props in the action": [
+            "No specific props are used; running is performed using body strength."
+        ],
+        "The number of actors involved in the action": [
+            "Usually, one person runs, but others may run alongside or be present in the environment."
+        ],
+        "The clothing worn by the actors": [
+            "The person wears comfortable running attire and shoes suitable for the terrain."
+        ],
+        "The identity of the actors": [
+            "The actor could be an athlete, a fitness enthusiast, or someone running for transportation."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit focus, determination, or enjoyment while running."
+        ],
+        "The speed of the action": [
+            "The action can vary from a jog to a sprint, depending on the runner's pace."
+        ],
+        "The movement of body parts during the action": [
+            "The person's legs move in a rhythmic, alternating pattern while the arms swing in coordination."
+        ],
+        "The posture of the body during the action": [
+            "The body posture is upright with a slight forward lean, and a strong, stable core."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person's body alternates between having one or both feet off the ground as they run."
+        ]
+    },
+    "Shake Hands": {
+        "The type of scene where the action occurs": [
+            "The action occurs in various social, professional, or formal settings as a gesture of greeting or agreement."
+        ],
+        "The elements present in the scene": [
+            "The scene may contain other individuals, possibly in a meeting, event, or social gathering."
+        ],
+        "The environmental conditions of the scene": [
+            "The environmental conditions can vary widely depending on the setting."
+        ],
+        "The usage of props in the action": [
+            "No specific props are used; the action involves personal interaction."
+        ],
+        "The number of actors involved in the action": [
+            "At least two people are involved in the action of shaking hands."
+        ],
+        "The clothing worn by the actors": [
+            "The clothing can vary widely depending on the setting and the individuals."
+        ],
+        "The identity of the actors": [
+            "The actors could be colleagues, acquaintances, or individuals meeting for the first time."
+        ],
+        "The expression and emotions of the actors": [
+            "The people may exhibit professionalism, friendliness, or formality while shaking hands."
+        ],
+        "The speed of the action": [
+            "The action is gentle and deliberate, with a firm yet friendly grip."
+        ],
+        "The movement of body parts during the action": [
+            "The people extend their hands, grasp firmly, shake up and down, then release."
+        ],
+        "The posture of the body during the action": [
+            "The body posture is upright and respectful, with a possible slight lean forward."
+        ],
+        "The position of the body in relation to the ground": [
+            "The people remain in contact with the ground throughout the action."
+        ]
+    },
+    "Shoot Ball": {
+        "The type of scene where the action occurs": [
+            "The action typically occurs on a soccer field, basketball court, or any other sports field with goals or baskets."
+        ],
+        "The elements present in the scene": [
+            "The scene contains a ball, goals or baskets, other players, and possibly spectators."
+        ],
+        "The environmental conditions of the scene": [
+            "The area is spacious with a level surface suitable for the sport being played."
+        ],
+        "The usage of props in the action": [
+            "A ball is the main prop used in this action."
+        ],
+        "The number of actors involved in the action": [
+            "Usually, one person shoots the ball, but others may be present as teammates or opponents."
+        ],
+        "The clothing worn by the actors": [
+            "The person wears attire suitable for the sport, like a jersey, shorts, and appropriate footwear."
+        ],
+        "The identity of the actors": [
+            "The actor is likely an athlete or participant in a sport involving shooting a ball."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit focus, determination, or excitement while shooting the ball."
+        ],
+        "The speed of the action": [
+            "The action can be fast and forceful, with a swift kick or throw towards the goal or basket."
+        ],
+        "The movement of body parts during the action": [
+            "The person's legs or arms move forcefully to propel the ball towards the target."
+        ],
+        "The posture of the body during the action": [
+            "The body posture is balanced with a strong core, and possibly a jump or lunge to gain momentum."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person may jump or remain grounded, depending on the sport and situation."
+        ]
+    },
+    "Shoot Bow": {
+        "The type of scene where the action occurs": [
+            "The action typically occurs at an archery range or in a natural outdoor setting."
+        ],
+        "The elements present in the scene": [
+            "The scene contains a bow and arrow, targets, and possibly other archers or spectators."
+        ],
+        "The environmental conditions of the scene": [
+            "The area can be outdoors or indoors with varying light and weather conditions."
+        ],
+        "The usage of props in the action": [
+            "A bow and arrow are the main props used in this action."
+        ],
+        "The number of actors involved in the action": [
+            "Usually, one person shoots the bow, but others may be present as fellow archers or spectators."
+        ],
+        "The clothing worn by the actors": [
+            "The person wears comfortable attire suitable for archery, and possibly safety equipment like an arm guard."
+        ],
+        "The identity of the actors": [
+            "The actor could be an archer, hunter, or someone participating in archery as a hobby or sport."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit focus, calmness, and determination while shooting the bow."
+        ],
+        "The speed of the action": [
+            "The action is controlled and deliberate, with a steady draw, aim, and release."
+        ],
+        "The movement of body parts during the action": [
+            "The person's arms draw the bowstring, the eyes aim, and the fingers release the string to shoot the arrow."
+        ],
+        "The posture of the body during the action": [
+            "The body posture is upright with a stable stance, and a strong, engaged core."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person remains in contact with the ground, providing a stable base for shooting the bow."
+        ]
+    },
+    "Shoot Gun": {
+        "The type of scene where the action occurs": [
+            "The action typically occurs at a shooting range, in a hunting setting, or in a law enforcement or military scenario."
+        ],
+        "The elements present in the scene": [
+            "The scene contains a firearm, targets, possibly other shooters, and safety equipment."
+        ],
+        "The environmental conditions of the scene": [
+            "The area can be indoors or outdoors with varying light and weather conditions."
+        ],
+        "The usage of props in the action": [
+            "A firearm and ammunition are the main props used in this action."
+        ],
+        "The number of actors involved in the action": [
+            "Usually, one person shoots the gun, but others may be present as fellow shooters or spectators."
+        ],
+        "The clothing worn by the actors": [
+            "The person wears suitable attire for the setting, and safety equipment like ear protection and eye protection."
+        ],
+        "The identity of the actors": [
+            "The actor could be a shooter, hunter, law enforcement officer, or soldier."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit focus, determination, and a serious demeanor while shooting the gun."
+        ],
+        "The speed of the action": [
+            "The action can be fast and precise, with a controlled trigger pull and recoil management."
+        ],
+        "The movement of body parts during the action": [
+            "The person's arms extend to aim the gun, the finger pulls the trigger, and the body absorbs the recoil."
+        ],
+        "The posture of the body during the action": [
+            "The body posture is stable with a strong stance, and a strong, engaged core."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person remains in contact with the ground, providing a stable base for shooting the gun."
+        ]
+    },
+    "Sit": {
+        "The type of scene where the action occurs": [
+            "The action can occur in a variety of settings such as at home, in the office, or in a public place."
+        ],
+        "The elements present in the scene": [
+            "The scene may contain a chair, bench, or other seating arrangement."
+        ],
+        "The environmental conditions of the scene": [
+            "The environmental conditions can vary widely depending on the setting."
+        ],
+        "The usage of props in the action": [
+            "A seat or surface to sit on is the main prop used in this action."
+        ],
+        "The number of actors involved in the action": [
+            "Usually, one person performs the action, but others may be seated nearby."
+        ],
+        "The clothing worn by the actors": [
+            "The clothing can vary widely depending on the setting and the individual."
+        ],
+        "The identity of the actors": [
+            "The actor could be anyone in need of a seat."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit relaxation, attentiveness, or other expressions depending on the context."
+        ],
+        "The speed of the action": [
+            "The action is slow and controlled, with the person lowering their body onto the seat."
+        ],
+        "The movement of body parts during the action": [
+            "The person's legs bend at the knees and hips as they lower their body to the seat."
+        ],
+        "The posture of the body during the action": [
+            "The body posture transitions from standing to seated, with a straight or slightly reclined back."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person's body lowers towards the ground as they sit, with their feet remaining in contact with the ground."
+        ]
+    },
+    "Situp": {
+        "The type of scene where the action occurs": [
+            "The action typically occurs in a gym, workout area, or any flat surface suitable for exercising."
+        ],
+        "The elements present in the scene": [
+            "The scene may contain a mat or soft surface to lie on, and possibly other workout equipment or exercisers."
+        ],
+        "The environmental conditions of the scene": [
+            "The area is spacious with a level surface suitable for exercising."
+        ],
+        "The usage of props in the action": [
+            "A mat or soft surface to lie on is the main prop used in this action."
+        ],
+        "The number of actors involved in the action": [
+            "Usually, one person performs the situp, but others may be present as trainers or fellow exercisers."
+        ],
+        "The clothing worn by the actors": [
+            "The person wears comfortable workout attire that allows for a full range of motion."
+        ],
+        "The identity of the actors": [
+            "The actor is likely someone engaging in abdominal strength training or physical fitness activities."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit effort, determination, and focus while performing the situp."
+        ],
+        "The speed of the action": [
+            "The action is controlled and deliberate, with a steady upward and downward movement."
+        ],
+        "The movement of body parts during the action": [
+            "The person's abdominal muscles contract to lift the upper body off the ground, then slowly lower back down."
+        ],
+        "The posture of the body during the action": [
+            "The body maintains a straight line from head to hips, with a tight core and engaged muscles."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person's body lifts off the ground at the top of the situp, then lowers back down."
+        ]
+    },
+    "Smile": {
+        "The type of scene where the action occurs": [
+            "The action can occur in a variety of social, personal, or professional settings."
+        ],
+        "The elements present in the scene": [
+            "The scene may contain other individuals, possibly in a social or celebratory gathering."
+        ],
+        "The environmental conditions of the scene": [
+            "The environmental conditions can vary widely depending on the setting."
+        ],
+        "The usage of props in the action": [
+            "No specific props are used; the action is an expression of emotion."
+        ],
+        "The number of actors involved in the action": [
+            "Usually, one person smiles, but others may smile in response or be present in the environment."
+        ],
+        "The clothing worn by the actors": [
+            "The clothing can vary widely depending on the setting and the individual."
+        ],
+        "The identity of the actors": [
+            "The actor could be anyone expressing happiness, satisfaction, or friendliness."
+        ],
+        "The expression and emotions of the actors": [
+            "The person exhibits a positive emotion, like happiness or contentment, while smiling."
+        ],
+        "The speed of the action": [
+            "The action is gentle and natural, with the mouth curving upward to form the smile."
+        ],
+        "The movement of body parts during the action": [
+            "The person's facial muscles move to curve the mouth upward and possibly open the eyes wider."
+        ],
+        "The posture of the body during the action": [
+            "The body posture may be relaxed or expressive, complementing the friendly expression."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person remains in contact with the ground throughout the action."
+        ]
+    },
+    "Smoke": {
+        "The type of scene where the action occurs": [
+            "The action may occur in designated smoking areas, outdoors, or in personal spaces where smoking is allowed."
+        ],
+        "The elements present in the scene": [
+            "The scene contains a cigarette, cigar, or other smoking device, and possibly an ashtray."
+        ],
+        "The environmental conditions of the scene": [
+            "The area may be outdoors or in a well-ventilated indoor space."
+        ],
+        "The usage of props in the action": [
+            "A cigarette, cigar, or other smoking device is the main prop used in this action."
+        ],
+        "The number of actors involved in the action": [
+            "Usually, one person smokes, but others may be present or also smoking."
+        ],
+        "The clothing worn by the actors": [
+            "The clothing can vary widely depending on the setting and the individual."
+        ],
+        "The identity of the actors": [
+            "The actor could be anyone who smokes, regardless of their age or profession."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit relaxation, contemplation, or habituation while smoking."
+        ],
+        "The speed of the action": [
+            "The action is slow and repetitive, with the person taking drags from the smoking device at intervals."
+        ],
+        "The movement of body parts during the action": [
+            "The person's hand moves the smoking device to and from their mouth, while their chest expands and contracts with each inhale and exhale."
+        ],
+        "The posture of the body during the action": [
+            "The body posture may be relaxed or hunched, depending on the person's comfort and the setting."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person remains in contact with the ground throughout the action."
+        ]
+    },
+    "Somersault": {
+        "The type of scene where the action occurs": [
+            "The action typically occurs in a gymnastics arena, circus, or a safe, open space with a soft landing area."
+        ],
+        "The elements present in the scene": [
+            "The scene contains a soft, cushioned surface or mat for landing, and possibly spectators or other performers."
+        ],
+        "The environmental conditions of the scene": [
+            "The area is spacious with a level surface suitable for acrobatics."
+        ],
+        "The usage of props in the action": [
+            "No specific props are used; the action is performed using body strength and momentum."
+        ],
+        "The number of actors involved in the action": [
+            "Usually, one person performs the somersault, but others may be present as trainers, fellow performers, or spectators."
+        ],
+        "The clothing worn by the actors": [
+            "The person wears comfortable, stretchable attire that allows for a full range of motion."
+        ],
+        "The identity of the actors": [
+            "The actor is likely an athlete, gymnast, or performer engaging in acrobatics."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit focus, excitement, and confidence while performing the somersault."
+        ],
+        "The speed of the action": [
+            "The action is fast and fluid, with a quick roll or flip through the air."
+        ],
+        "The movement of body parts during the action": [
+            "The person tucks their body into a ball shape, rolls or flips through the air, then extends to land."
+        ],
+        "The posture of the body during the action": [
+            "The body maintains a tight, tucked position during the roll or flip, then extends to an upright position for landing."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person's body leaves the ground during the somersault, then returns to contact with the ground upon landing."
+        ]
+    },
+    "Stand": {
+        "The type of scene where the action occurs": [
+            "The action can occur in various settings, indoors or outdoors, depending on the context."
+        ],
+        "The elements present in the scene": [
+            "The scene may contain other individuals, furniture, or natural or architectural elements."
+        ],
+        "The environmental conditions of the scene": [
+            "The environmental conditions can vary widely depending on the setting."
+        ],
+        "The usage of props in the action": [
+            "No specific props are used; the action relies on the person's body strength."
+        ],
+        "The number of actors involved in the action": [
+            "Usually, one person stands, but others may be present in the environment."
+        ],
+        "The clothing worn by the actors": [
+            "The clothing can vary widely depending on the setting and the individual."
+        ],
+        "The identity of the actors": [
+            "The actor could be anyone transitioning from a seated or lying position to an upright posture."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit a neutral expression, or their expression may reflect their reaction to the environment or situation."
+        ],
+        "The speed of the action": [
+            "The action is typically slow to moderate, depending on the person's agility."
+        ],
+        "The movement of body parts during the action": [
+            "The person's legs straighten, and their torso rises to achieve an upright posture."
+        ],
+        "The posture of the body during the action": [
+            "The body posture transitions to an upright position, with the head held high and the back straight."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person's feet are in contact with the ground, providing stability."
+        ]
+    },
+    "Swing Baseball": {
+        "The type of scene where the action occurs": [
+            "The action typically occurs on a baseball field during a game or practice."
+        ],
+        "The elements present in the scene": [
+            "The scene contains a bat, ball, baseball field elements like bases, and possibly other players and spectators."
+        ],
+        "The environmental conditions of the scene": [
+            "The area is spacious and outdoors, with clear demarcations for the baseball field."
+        ],
+        "The usage of props in the action": [
+            "A baseball bat is the main prop used in this action."
+        ],
+        "The number of actors involved in the action": [
+            "Usually, one person swings the bat, but others may be present as teammates or opponents."
+        ],
+        "The clothing worn by the actors": [
+            "The person wears a baseball uniform and helmet for safety."
+        ],
+        "The identity of the actors": [
+            "The actor is likely a baseball player participating in a game or practice."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit focus, determination, and excitement while swinging the bat."
+        ],
+        "The speed of the action": [
+            "The action is fast and forceful, requiring a powerful swing to hit the ball."
+        ],
+        "The movement of body parts during the action": [
+            "The person's arms swing the bat with a fluid motion, while the hips and torso rotate to generate power."
+        ],
+        "The posture of the body during the action": [
+            "The body posture is balanced and athletic, with a strong stance and core engagement."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person remains in contact with the ground, providing a stable base for the swing."
+        ]
+    },
+    "Sword Exercise": {
+        "The type of scene where the action occurs": [
+            "The action occurs in a martial arts dojo, outdoor practice area, or a staged performance area."
+        ],
+        "The elements present in the scene": [
+            "The scene contains a sword, possibly other practitioners, and martial arts training equipment."
+        ],
+        "The environmental conditions of the scene": [
+            "The area is spacious with a level surface suitable for martial arts practice."
+        ],
+        "The usage of props in the action": [
+            "A sword is the main prop used in this action."
+        ],
+        "The number of actors involved in the action": [
+            "Usually, one person performs the sword exercises, but others may be present as trainers or fellow practitioners."
+        ],
+        "The clothing worn by the actors": [
+            "The person wears martial arts attire or performance costumes, depending on the setting."
+        ],
+        "The identity of the actors": [
+            "The actor is likely a martial artist, performer, or someone engaging in sword training."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit focus, discipline, and precision while performing the sword exercises."
+        ],
+        "The speed of the action": [
+            "The action can vary from slow, controlled movements to fast, fluid strikes and parries."
+        ],
+        "The movement of body parts during the action": [
+            "The person's arms move the sword through various strikes, blocks, and parries, while the legs provide stability and mobility."
+        ],
+        "The posture of the body during the action": [
+            "The body posture is upright and balanced, with a strong core and engaged muscles."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person remains in contact with the ground, providing a stable base for the sword exercises."
+        ]
+    },
+    "Sword": {
+        "The type of scene where the action occurs": [
+            "The action occurs in a similar setting to the Sword Exercise, such as a martial arts dojo, outdoor practice area, or a staged performance area."
+        ],
+        "The elements present in the scene": [
+            "The scene contains similar elements to the Sword Exercise, like a sword, possibly other practitioners, and martial arts training equipment."
+        ],
+        "The environmental conditions of the scene": [
+            "The area is spacious with a level surface suitable for martial arts practice."
+        ],
+        "The usage of props in the action": [
+            "A sword is the main prop used in this action."
+        ],
+        "The number of actors involved in the action": [
+            "Usually, one person wields the sword, but others may be present as opponents, trainers, or fellow practitioners."
+        ],
+        "The clothing worn by the actors": [
+            "The person wears martial arts attire or performance costumes, depending on the setting."
+        ],
+        "The identity of the actors": [
+            "The actor is likely a martial artist, performer, or someone engaging in sword training."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit focus, determination, and skill while wielding the sword."
+        ],
+        "The speed of the action": [
+            "The action can be fast and precise, with sharp cuts, thrusts, and parries."
+        ],
+        "The movement of body parts during the action": [
+            "The person's arms move the sword in various offensive and defensive techniques, while the legs provide stability and mobility."
+        ],
+        "The posture of the body during the action": [
+            "The body posture is upright and balanced, with a strong core and engaged muscles."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person remains in contact with the ground, providing a stable base for swordplay."
+        ]
+    },
+    "Talk": {
+        "The type of scene where the action occurs": [
+            "The action can occur in a variety of social, professional, or personal settings."
+        ],
+        "The elements present in the scene": [
+            "The scene may contain other individuals, furniture, and possibly audio-visual equipment if it's a formal or public speaking setting."
+        ],
+        "The environmental conditions of the scene": [
+            "The environmental conditions can vary widely depending on the setting."
+        ],
+        "The usage of props in the action": [
+            "A microphone or lectern might be used in formal or public speaking settings."
+        ],
+        "The number of actors involved in the action": [
+            "Usually, one person talks, but others may be present as listeners or participants in the conversation."
+        ],
+        "The clothing worn by the actors": [
+            "The clothing can vary widely depending on the setting and the individual."
+        ],
+        "The identity of the actors": [
+            "The actor could be anyone engaging in verbal communication."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit various expressions and emotions depending on the topic of conversation."
+        ],
+        "The speed of the action": [
+            "The action can vary in speed depending on the nature and pace of the conversation."
+        ],
+        "The movement of body parts during the action": [
+            "The person's mouth moves to form words, and they may use hand gestures or body language to emphasize points."
+        ],
+        "The posture of the body during the action": [
+            "The body posture may be relaxed or formal, depending on the setting and the nature of the conversation."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person remains in contact with the ground throughout the action."
+        ]
+    },
+    "Throw": {
+        "The type of scene where the action occurs": [
+            "The action can occur in various settings such as a sports field, park, or during a recreational activity."
+        ],
+        "The elements present in the scene": [
+            "The scene may contain a ball, frisbee, or other throwable object, possibly other players or spectators."
+        ],
+        "The environmental conditions of the scene": [
+            "The environmental conditions can vary but generally require a clear, open space."
+        ],
+        "The usage of props in the action": [
+            "A ball, frisbee, or other throwable object is the main prop used in this action."
+        ],
+        "The number of actors involved in the action": [
+            "Usually, one person performs the throw, but others may be present as recipients or competitors."
+        ],
+        "The clothing worn by the actors": [
+            "The clothing can vary from casual to sportswear, depending on the setting."
+        ],
+        "The identity of the actors": [
+            "The actor could be anyone engaged in a sport or recreational activity involving throwing."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit focus, determination, and effort while performing the throw."
+        ],
+        "The speed of the action": [
+            "The action is fast and precise, requiring a strong arm movement to propel the object."
+        ],
+        "The movement of body parts during the action": [
+            "The person's arm swings forward in a rapid motion, often with a step forward for added momentum."
+        ],
+        "The posture of the body during the action": [
+            "The body posture is balanced and athletic, with a strong stance and core engagement."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person remains in contact with the ground, providing a stable base for the throw."
+        ]
+    },
+    "Turn": {
+        "The type of scene where the action occurs": [
+            "The action can occur in various settings, whether navigating through spaces or during a dance or sport."
+        ],
+        "The elements present in the scene": [
+            "The scene may contain other individuals, obstacles, or features of the environment."
+        ],
+        "The environmental conditions of the scene": [
+            "The environmental conditions can vary widely depending on the setting."
+        ],
+        "The usage of props in the action": [
+            "No specific props are used; the action relies on body movement."
+        ],
+        "The number of actors involved in the action": [
+            "Usually, one person performs the turn, but others may be present in the environment."
+        ],
+        "The clothing worn by the actors": [
+            "The clothing can vary widely depending on the setting and the individual."
+        ],
+        "The identity of the actors": [
+            "The actor could be anyone needing to change direction or orientation."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit a neutral expression, or their expression may reflect their focus or engagement in the activity."
+        ],
+        "The speed of the action": [
+            "The action can vary in speed from slow to fast, depending on the context and purpose of the turn."
+        ],
+        "The movement of body parts during the action": [
+            "The person's feet pivot, and their body rotates to change direction or orientation."
+        ],
+        "The posture of the body during the action": [
+            "The body posture remains upright and balanced during the turn."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person remains in contact with the ground during the turn."
+        ]
+    },
+    "Walk": {
+        "The type of scene where the action occurs": [
+            "The action can occur in various settings such as sidewalks, parks, indoor spaces, and more."
+        ],
+        "The elements present in the scene": [
+            "The scene may contain other pedestrians, vehicles, furniture, or natural elements."
+        ],
+        "The environmental conditions of the scene": [
+            "The environmental conditions can vary widely depending on the setting."
+        ],
+        "The usage of props in the action": [
+            "No specific props are used; the action relies on body movement."
+        ],
+        "The number of actors involved in the action": [
+            "Usually, one person walks, but others may be present as fellow pedestrians."
+        ],
+        "The clothing worn by the actors": [
+            "The clothing can vary widely depending on the setting and the individual."
+        ],
+        "The identity of the actors": [
+            "The actor could be anyone engaged in moving from one place to another on foot."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit a neutral expression, or their expression may reflect their thoughts or reactions to the environment."
+        ],
+        "The speed of the action": [
+            "The action is moderate, with a steady, rhythmic pace."
+        ],
+        "The movement of body parts during the action": [
+            "The person's legs move alternately, and their arms swing in rhythm with their steps."
+        ],
+        "The posture of the body during the action": [
+            "The body posture is upright, with a forward-leaning angle to propel movement."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person remains in contact with the ground, with one foot always touching the ground."
+        ]
+    },
+    "Wave": {
+        "The type of scene where the action occurs": [
+            "The action can occur in various social settings such as greetings, farewells, or attracting attention."
+        ],
+        "The elements present in the scene": [
+            "The scene may contain other individuals, possibly distant or approaching."
+        ],
+        "The environmental conditions of the scene": [
+            "The environmental conditions can vary widely depending on the setting."
+        ],
+        "The usage of props in the action": [
+            "No specific props are used; the action relies on hand movement."
+        ],
+        "The number of actors involved in the action": [
+            "Usually, one person waves, but others may be present as recipients of the gesture."
+        ],
+        "The clothing worn by the actors": [
+            "The clothing can vary widely depending on the setting and the individual."
+        ],
+        "The identity of the actors": [
+            "The actor could be anyone engaged in a social interaction or attempting to attract attention."
+        ],
+        "The expression and emotions of the actors": [
+            "The person may exhibit a friendly or urgent expression, depending on the context of the wave."
+        ],
+        "The speed of the action": [
+            "The action is moderate to fast, with a quick raising and lowering or side-to-side motion of the hand."
+        ],
+        "The movement of body parts during the action": [
+            "The person's arm raises, and the hand moves in a waving motion."
+        ],
+        "The posture of the body during the action": [
+            "The body posture may be relaxed or expressive, complementing the friendly or urgent nature of the wave."
+        ],
+        "The position of the body in relation to the ground": [
+            "The person remains in contact with the ground throughout the action."
+        ]
+    }  
+    
+    
+}
